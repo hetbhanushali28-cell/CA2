@@ -1,6 +1,6 @@
 services:
   app:
-    image: hetbhanushali28/webapp:latest
+    image: hetbhanushali/webapp:latest
     container_name: webapp
     ports:
       - "8080:80"
